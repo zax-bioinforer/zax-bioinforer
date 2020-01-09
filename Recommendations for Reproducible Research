@@ -1,0 +1,19 @@
+1.  Release Your Code and Data
+
+    For reproducibility, the absolute minimal requirements are that code and data are released. Without available code and data, 
+    your research is not reproducible
+
+2.  Document Everything
+    
+    The first day a scientist steps into a lab, they’re told to keep a lab notebook. Sadly, this good practice is often abandoned 
+    by researchers in computing. Releasing code and data is the minimal requirement for reproducibility, but extensive documentation
+    is an important component of reproducibility, too. To fully reproduce a study, each step of analysis must be described in much more
+    detail than can be accomplished in a scholarly article. Thus, additional documentation is essential for reproducibility.
+
+3.  Make Figures and Statistics the Results of Scripts
+    
+    Writing scripts to produce images and tables may seem like a more time-consuming process than generating these interactively 
+    in Excel or R.
+   
+4.  Use Code as Documentation
+    
